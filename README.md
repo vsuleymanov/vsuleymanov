@@ -19,8 +19,22 @@ I'm passionate about __Data Science__, __Machine Learning__, __Large Language Mo
 - 🛠️ **Web/Engineering Skills**: Git, GitHub, Docker, AWS, CI/CD, MLOps.
 
 ## Projects
+🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Below are some used models:
 
-### Data Science Projects
+* *Linear Regression*
+* *Logistic Regression*
+* *Support Vector Machines (SVM)*
+* *Decision Trees (DT)*
+* *Random Forests (RF)*
+* *K-Nearest Neighbors (KNN)*
+* *Deep Neural Networks*
+* *Convolutional Neural Networks (CNN)*
+* *Recurrent Neural Networks (RNN)*
+* *Naive Bayes (NB)*
+* *Gradient Boosted Decision Trees (GBDT)*
+* *XGBoost*
+  
+## Data Science Projects
 
 Explore a curated collection of my data science portfolio, showcasing a diverse range of projects that demonstrate my expertise in machine learning and deep learning. These projects encompass a variety of advanced algorithms for tasks such as classification, image segmentation, and ranking. My work spans several exciting fields, including Computer Vision, Natural Language Processing (NLP), multimodal machine learning, image preprocessing, exploratory data analysis, statistical testing, and data resampling techniques. Dive into these projects through the links below to see the innovative solutions and insights I've developed.
 
