@@ -4,7 +4,7 @@ I'm **Vagif Suleymanov**, a Data Scientist, Machine Learning Engineer, and AI En
 
 ## About Me
 
-- 📖 **Education**: Master of Science in Data Science, The University of Texas at Austin
+- 📖 **Education**: MSc in Data Science, The University of Texas at Austin
 - 📚 **Tech Stack**: Python, SQL, scikit-learn, TensorFlow, PyTorch, Keras, Transformers.
 - 🤓 **Looking to Collaborate**: I'm eager to collaborate on Artificial Intelligence projects.
 - 🤔 **AI Enthusiast?** Let's have a conversation! I’m always open to discussing AI.
