@@ -7,8 +7,7 @@ I'm passionate about __Data Science__, __Machine Learning__, __Large Language Mo
 
 - 📖 **Education**: MSc in Data Science at [__The University of Texas at Austin__](https://www.utexas.edu/)
 - 📚 **Tech Stack**: Python, SQL, scikit-learn, TensorFlow, PyTorch, Keras, Transformers.
-- 🤓 **Looking to Collaborate**: I'm eager to collaborate on Artificial Intelligence projects.
-- 🤔 **AI Enthusiast?** Let's have a conversation! I’m always open to discussing AI.
+- 🤔 **Looking to Collaborate**: I'm eager to collaborate on Artificial Intelligence projects.
 
 ## Skills
 
