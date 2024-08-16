@@ -3,7 +3,7 @@
 I'm **Vagif Suleymanov**.
 I'm passionate about __Data Science__, __Machine Learning__, __Large Language Models (LLMs)__ and __Generative AI__. 
 
-## About Me
+## 👨‍🎓🙋‍♂️ About Me
 
 - 📖 **Education**: MSc in Data Science at [__The University of Texas at Austin__](https://www.utexas.edu/)
 - 📚 **Tech Stack**: Python, SQL, scikit-learn, TensorFlow, PyTorch, Keras, Transformers.
