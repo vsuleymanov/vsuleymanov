@@ -1,6 +1,6 @@
 # Hello World 👋
 
-I'm **Vagif Suleymanov**
+I'm **Vagif Suleymanov**.
 I'm passionate about __Data Science__, __Machine Learning__, __Large Language Models (LLMs)__ and __Generative AI__. 
 
 ## About Me
