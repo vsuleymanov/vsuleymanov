@@ -13,10 +13,11 @@ I'm passionate about __Data Science__, __Machine Learning__, __Large Language Mo
 
 - 🏭 **Industry Knowledge**: Data Analysis, Machine Learning, Deep Learning, NLP.
 - 💻 **Programming Languages**: Python, SQL, R, MATLAB.
-- 📚 **Libraries**: Pandas, NumPy, SciPy, Seaborn, Matplotlib, Beautiful Soup, Scrapy, NLTK, Spacy, Gensim.
-- 🖥️ **Frameworks**: scikit-learn, TensorFlow, PyTorch, Keras, Transformers, OpenAI API.
+- 📚 **Libraries**: Pandas, NumPy, SciPy, Seaborn, Matplotlib, Beautiful Soup, Scrapy.
+- 🖥️ **Frameworks**: scikit-learn, TensorFlow, PyTorch, Keras.
 - 🛠️ **Web/Engineering Skills**: Git, GitHub, Docker, AWS, CI/CD, MLOps.
 
+## 
 🔭 Some of the notable courses I have completed and that helped in gaining a strong theoretical foundation include: 
 * *[__Machine Learning Certification__](https://www.coursera.org/account/accomplishments/specialization/NUFPJDFE37QK) by Stanford University & DeepLearning.AI*
 * *[__Generative AI_with Large Language Models__](https://www.coursera.org/account/accomplishments/verify/926L9QDQMJQ8?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) by DeepLearing.Ai and AWS*
