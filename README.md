@@ -35,7 +35,7 @@ I'm passionate about __Data Science__, __Machine Learning__, __Large Language Mo
 * *Naive Bayes (NB)*
 * *Gradient Boosted Decision Trees (GBDT)*
 * *XGBoost*
-* *CatBoost
+* *CatBoost*
   
 ## Data Science Projects
 
