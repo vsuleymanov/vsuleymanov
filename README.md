@@ -18,8 +18,8 @@ I'm passionate about __Data Science__, __Machine Learning__, __Large Language Mo
 - 🛠️ **Web/Engineering Skills**: Git, GitHub, Docker, AWS, CI/CD, MLOps.
 
 🔭 Some of the notable courses I have completed and that helped in gaining a strong theoretical foundation include: 
-* *Machine Learning Certification by [__Stanford University & DeepLearning.AI__](https://www.stanford.edu/)*
-* *Generative AI with Large Language Models by [__DeepLearning.AI__](https://www.andrewng.org/)*
+* *Machine Learning Certification by [__Stanford University & DeepLearning.AI__](https://www.coursera.org/account/accomplishments/specialization/certificate/NUFPJDFE37QK)*
+* *Generative AI with Large Language Models by [__DeepLearning.AI__](https://www.coursera.org/account/accomplishments/verify/926L9QDQMJQ8?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)*
 
 
 🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Below are some used models:
