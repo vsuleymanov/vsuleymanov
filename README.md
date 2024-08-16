@@ -17,7 +17,11 @@ I'm passionate about __Data Science__, __Machine Learning__, __Large Language Mo
 - 🖥️ **Frameworks**: scikit-learn, TensorFlow, PyTorch, Keras, Transformers, OpenAI API.
 - 🛠️ **Web/Engineering Skills**: Git, GitHub, Docker, AWS, CI/CD, MLOps.
 
-## Projects
+🔭 Some of the notable courses I have completed and that helped in gaining a strong theoretical foundation include: 
+* *Machine Learning Certification by [__Stanford University & DeepLearning.AI__](https://www.stanford.edu/)*
+* *Generative AI with Large Language Models by [__DeepLearning.AI__](https://www.andrewng.org/)*
+
+
 🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Below are some used models:
 
 * *Linear Regression*
