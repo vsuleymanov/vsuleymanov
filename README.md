@@ -1,4 +1,4 @@
-# Hello, I'm Vagif 👋
+# Hello World, I'm Vagif 👋
 
 I'm passionate about __Data Science__, __Machine Learning__, __Large Language Models (LLMs)__ and __Generative AI__. 
 
@@ -32,11 +32,10 @@ I'm passionate about __Data Science__, __Machine Learning__, __Large Language Mo
 * *Random Forests (RF)*
 * *K-Nearest Neighbors (KNN)*
 * *Deep Neural Networks*
-* *Convolutional Neural Networks (CNN)*
-* *Recurrent Neural Networks (RNN)*
 * *Naive Bayes (NB)*
 * *Gradient Boosted Decision Trees (GBDT)*
 * *XGBoost*
+* *CatBoost
   
 ## Data Science Projects
 
