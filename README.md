@@ -19,7 +19,7 @@ I'm passionate about __Data Science__, __Machine Learning__, __Large Language Mo
 
 🔭 Some of the notable courses I have completed and that helped in gaining a strong theoretical foundation include: 
 * *[__Machine Learning Certification__](https://www.coursera.org/account/accomplishments/specialization/NUFPJDFE37QK) by Stanford University & DeepLearning.AI*
-* *Generative AI with Large Language Models by [__DeepLearning.AI__](https://www.coursera.org/account/accomplishments/verify/926L9QDQMJQ8?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)*
+* *[__Generative AI_with Large Language Models__](https://www.coursera.org/account/accomplishments/verify/926L9QDQMJQ8?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) by DeepLearing.Ai and AWS*
 
 
 🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Below are some used models:
