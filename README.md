@@ -1,4 +1,4 @@
-# Hello World, I'm Vagif 👋
+# Hi, I'm Vagif 👋
 
  I'm passionate about __Data Science__, __Machine Learning__, __Large Language Models (LLMs)__ and __Generative AI__. 
 Currently, I'm a Researcher with few years of experience in machine learning applications in the energy sector. Passionate about building a career in the industry to solve problems through innovative approaches and collaboration in diverse, professional settings. Legally permitted to work in Saudi Arabia, with proven success in integrating into local culture while contributing to innovative projects.
