@@ -19,7 +19,7 @@
 
 ## 
 🔭 Some of the notable courses I have completed and that helped in gaining a strong theoretical foundation include: 
-* *[__Machine Learning Certification__](https://www.coursera.org/account/accomplishments/specialization/NUFPJDFE37QK) by Stanford University & DeepLearning.AI*
+* *[__Machine Learning Specialization__](https://www.coursera.org/account/accomplishments/specialization/NUFPJDFE37QK) by Stanford University & DeepLearning.AI*
 * *[__Generative AI for Everyone__](https://www.coursera.org/account/accomplishments/verify/Q9J5C4LFS88G?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) by DeepLearning.AI*
 * *[__Generative AI with Large Language Models__](https://www.coursera.org/account/accomplishments/verify/926L9QDQMJQ8?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) by AWS & DeepLearing.AI*
 
